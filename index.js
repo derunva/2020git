@@ -18,3 +18,8 @@ function cylinder (radius, height) {
 }
 
 console.log(cylinder(5, 10));
+
+function hello (name) {
+  return `Hello my name is ${name}`
+}
+console.log(hello("Міша"))

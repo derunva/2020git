@@ -18,3 +18,7 @@ function cylinder (radius, height) {
 }
 
 console.log(cylinder(5, 10));
+function concat (a, b) {
+  return '' + a + b
+}
+console.log(concat(4, 6));

@@ -23,3 +23,8 @@ function hello (name) {
   return `Hello my name is ${name}`
 }
 console.log(hello("Міша"))
+
+function concat (a, b) {
+  return '' + a + b
+}
+
